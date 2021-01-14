@@ -21,10 +21,10 @@ flutter:
   assets:
    - images/
   fonts:
-    - family: Pacifico
+    - family: YuseiMagic
       fonts:
         - asset: fonts/YuseiMagic-Regular.ttf
 
-    - family: Source Sans Pro
+    - family: Montserrat
       fonts:
         - asset: fonts/Montserrat-Regular.ttf

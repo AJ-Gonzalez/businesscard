@@ -36,7 +36,7 @@ class MyApp extends StatelessWidget {
                 'Flutter and Python Developer',
                 style: TextStyle(
                   fontFamily: 'Montserrat',
-                  fontSize: 22.0,
+                  fontSize: 20.0,
                   color: Colors.pink.shade100,
                   letterSpacing: 1.2,
                   fontWeight: FontWeight.bold,
@@ -78,7 +78,7 @@ class MyApp extends StatelessWidget {
                     style: TextStyle(
                       color: Colors.black,
                       fontFamily: 'Montserrat',
-                      fontSize: 18.0,
+                      fontSize: 16.0,
                     ),
                   ),
                 ),
